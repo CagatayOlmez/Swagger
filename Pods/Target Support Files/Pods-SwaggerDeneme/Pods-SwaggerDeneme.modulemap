@@ -1,0 +1,6 @@
+framework module Pods_SwaggerDeneme {
+  umbrella header "Pods-SwaggerDeneme-umbrella.h"
+
+  export *
+  module * { export * }
+}
